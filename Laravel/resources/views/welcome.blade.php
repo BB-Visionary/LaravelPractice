@@ -14,6 +14,7 @@
         </style>
     </head>
     <body>
-        <div><h1>Hello John Bernard Paragas!</h1></div>
+        <div id="laravel"></div>
+        <script src="{{asset('js/app.js')}}" ></script>
     </body>
 </html>
